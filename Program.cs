@@ -1,6 +1,6 @@
 ﻿using System;
-
-namespace HW2
+//test review
+namespace hw2
 {
     class Program
     {
